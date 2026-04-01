@@ -1,0 +1,99 @@
+# Charlie Puth – Changes
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Lately, there's been somethin'
+in the air
+There's been a lot
+of smaller talks
+(Talkin' and talkin' and talk)
+When we were younger,
+we would share our fears
+Now, we're afraid
+of bein' mocked
+(Mockin' and mock)
+I still can hear you through
+all of the silence
+Do you need any help
+callin' like I did?
+There's been some changes in
+our life, oh
+I can feel the distance,
+space and time
+Has made everything different,
+day and night, oh
+Everything has changed
+and I don't know why
+I used to hear your voice
+inside my head
+(Inside my head)
+Now I forget what it sounds
+like
+(Likin' and likin' and like)
+And all the things we used
+to leave unsaid
+(Leave unsaid)
+I wish they were said
+in hindsight
+('Sight and in hindsight)
+I still can hear you through
+all of the silence
+(All the silence)
+Do you need any help
+calling like I did?
+(Oh, like I did?)
+There's been some changes
+in our life, oh
+I can feel the distance,
+space and time
+Has made everything different
+(Different)
+day and night
+(Oh)
+Everything has changed
+and I don't know why
+Maybe that's, mm,
+just the way it is
+No matter how much
+you're missin' it
+Sometimes the wind blows
+in different
+New directions and lessons
+are happenin'
+Maybe that's, mm,
+just the way it is
+No matter how much
+you're missin' it
+No love lost,
+I know it's innocent
+It's what you make of it
+There's been some changes
+(Changes)
+in our life, oh
+I can feel the distance
+(Distance)
+space and time
+(Time)
+Has made everything different
+(Different)
+day and night, oh
+Everything has changed and
+(Changed and)
+I don't know why
+(Why)
+There's been some changes
+(Changes)
+in our life, oh
+I can feel the distance
+(Distance)
+space and time
+(Time)
+Has made everything different
+(Different)
+day and night, oh
+Everything has changed and
+(Changed and)
+I don't know why
+(Why)
+```
