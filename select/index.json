@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Changes",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-04-01T07:34:11.498198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life Changes",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/01_Life_Changes_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Changes",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/02_Life_Changes_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Changes (radio mix)",
+      "artist": "Faul feat. Wad AD & Pnau",
+      "has_synced": true,
+      "path": "select/03_Changes_(radio_mix)_Faul_feat._Wad_AD_&_Pnau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Changes - Radio Mix",
+      "artist": "Faul & Wad, Pnau",
+      "has_synced": true,
+      "path": "select/04_Changes_-_Radio_Mix_Faul_&_Wad,_Pnau.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/05_Changes_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/06_Changes_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Going Through Changes",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/07_Going_Through_Changes_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Changes",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/08_Life_Changes_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Changes_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Changes_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Changes_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Changes_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Changes_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Changes - Live",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Changes_-_Live_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Changes",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/15_Changes_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Big Changes",
+      "artist": "Lemonade",
+      "has_synced": false,
+      "path": "select/16_Big_Changes_Lemonade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Changes",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Changes_Charlie_Puth.txt"
+    }
+  ]
+}
